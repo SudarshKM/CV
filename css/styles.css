@@ -1,0 +1,165 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+  color: #40514e;
+}
+
+
+
+.top-container {
+  padding-top: 100px;
+  background-color: #fff0f0;
+}
+.profile{
+  padding-top: 18px;
+  margin-bottom: 100px;
+}
+.dp{
+  height:200px;
+  width:200px;
+
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 100px
+}
+
+.middle-container {
+  margin: 60px 0 0;
+}
+
+.bottom-container {
+  font-size: 1rem;
+  background-color: #ad9d9d;
+  padding: 25px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
+
+.myname{
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  line-height: 3;
+}
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #825959;
+
+}
+h2{
+  font-family: 'Merriweather', serif;
+  color: #825959;
+}
+h3{
+font-family: 'Merriweather', serif;
+color: #825959;
+}
+.quote{
+  color: #a07676;
+
+}
+.programmer{
+  font-size: 2.5rem;
+  color: #825959;
+  font-weight: normal;
+
+}
+hr{
+  border-style: dotted;
+  border-top: 0;
+  border-width: 7px;
+  border-color: #ad9d9d;
+
+  width: 4%;
+}
+
+#pro {
+  text-decoration: line-through;
+  font-weight: bolder;
+}
+.skills{
+  margin-top: 100px;
+}
+.footer-link{
+  color: #a07676;
+}
+.logo{
+  height:20px;
+  width: 20px;
+  color: #cd0a0a;
+}
+.logo:hover{
+  color: #b088f9;
+}
+ .skill-row{
+   display: inline-block;
+   width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+ }
+
+ .img-monitor{
+   width: 33%;
+   float: left;
+   margin-right: 50px;
+   margin-top: 55px;
+
+ }
+ .img-typing{
+   width: 33%;
+   float: right;
+   margin-left: 30px;
+
+ }
+ .contact-me{
+   font-size: 1rem;
+ }
+
+ .BUTTON_ZPA {
+   background: #bb2205;
+   background-image: -webkit-linear-gradient(top, #cd0a0a, #bb2205);
+   background-image: -moz-linear-gradient(top, #cd0a0a, #bb2205);
+   background-image: -ms-linear-gradient(top, #cd0a0a, #bb2205);
+   background-image: -o-linear-gradient(top, #cd0a0a, #bb2205);
+   background-image: -webkit-gradient(to bottom, #cd0a0a, #bb2205);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 5px;
+   line-height: 10px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   width: 50px;
+   font-size: 14px;
+   font-weight: lighter;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #bb2205 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_ZPA:hover {
+   border: solid #bb2205 1px;
+   background: #cd0a0a;
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
