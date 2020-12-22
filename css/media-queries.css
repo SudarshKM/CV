@@ -1,0 +1,47 @@
+@media (max-width: 999px) {
+  .top-container{
+    text-align: center;
+    margin: 250px 0;
+    padding-top: 40%;
+  }
+
+  .profilePhoto {
+    height: 450px;
+    margin: 50px 0 25px;
+    opacity: 90%;
+  }
+
+  /* middle-container */
+
+
+  h2 {
+    font-size: 7.5rem;
+  }
+  h3 {
+    font-size: 5rem;
+  }
+  p {
+    font-size: 3.7rem;
+  }
+  .middle-container {
+
+
+    padding: 60% 14%;
+  }
+
+  /* footer */
+  .footer {
+    background-color: #394867;
+    color: #fff;
+      padding: 30% 14% 12%;
+  }
+
+
+  .form {
+    margin: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+
+}
