@@ -27,4 +27,9 @@ $(".btn-theme").click(function ( ) {
           $("nav").attr("style" , "background-color:#394867;")
 
   }
-})
+});
+
+if (screen.width<1000) {
+  $(".btn-dark-mode").addClass("btn-lg");
+}
+
